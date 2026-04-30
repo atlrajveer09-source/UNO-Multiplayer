@@ -1,0 +1,6 @@
+{
+  "name": "UNO Local Multiplayer",
+  "description": "A real-time local multiplayer UNO card game built with React, Socket.IO, and Express.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
